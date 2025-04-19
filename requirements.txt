@@ -1,0 +1,6 @@
+streamlit
+langchain
+chromadb
+unstructured
+sentence-transformers
+ollama
